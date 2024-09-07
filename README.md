@@ -6,13 +6,7 @@
 
 - [Docker](https://docs.docker.com/engine/install/) : Installation de Docker.
 
-## Récupération du projet
 
-Clonez le dépôt Git pour récupérer le projet :
-
-```bash
-git clone https://github.com/julien-linard/recipe_docker_php_symfony
-```
 
 ## 🔩 Configuration de la base de données
 
